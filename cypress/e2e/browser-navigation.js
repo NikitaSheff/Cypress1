@@ -21,7 +21,6 @@ describe("Validate WD Uni hp links", () => {
         cy.go('back')
 
 
-
     });
 
 
