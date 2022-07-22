@@ -39,9 +39,6 @@ describe("Handle JS alerts", () => {
             cy.get('#confirm-alert-text').contains('You pressed OK!')
         })
 
-
-
-
     });
 
 })

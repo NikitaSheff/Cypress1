@@ -1,4 +1,6 @@
 /// <reference types="cypress" />
+let userName = 'nikita';
+let pswrd = 'qwerty';
 
     describe("Sign in", () => {
         it("Log info", () => {
